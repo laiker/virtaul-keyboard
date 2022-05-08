@@ -81,7 +81,10 @@ typings/
 # Nuxt.js build / generate output
 .nuxt
 dist
+<<<<<<< HEAD
 dist/
+=======
+>>>>>>> ae5d731... init: start virtual-keyboard
 
 # Gatsby files
 .cache/
