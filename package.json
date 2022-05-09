@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "name": "webpack",
     "version": "1.0.0",
     "description": "",
@@ -17,3 +18,19 @@
       "webpack-dev-server": "^4.8.1"
     }
   }
+=======
+    "name": "virtual-keyboard",
+    "scripts": {
+        "build": "webpack"
+    },
+    "devDependencies": {
+        "eslint": "^8.15.0",
+        "eslint-config-airbnb": "^19.0.4",
+        "webpack": "^5.72.0",
+        "webpack-cli": "^4.9.2"
+    },
+    "dependencies": {
+        "eslint-plugin-import": "^2.26.0"
+    }
+}
+>>>>>>> feat: realized virtal keyboard
