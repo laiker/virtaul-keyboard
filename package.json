@@ -1,5 +1,8 @@
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> d899316 (feat: add eslint and package files)
     "name": "webpack",
     "version": "1.0.0",
     "description": "",
@@ -17,6 +20,7 @@
       "webpack-cli": "^4.9.2",
       "webpack-dev-server": "^4.8.1"
     }
+<<<<<<< HEAD
   }
 =======
     "name": "virtual-keyboard",
@@ -34,3 +38,6 @@
     }
 }
 >>>>>>> feat: realized virtal keyboard
+=======
+  }
+>>>>>>> d899316 (feat: add eslint and package files)
