@@ -1,28 +1,4 @@
 {
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> d899316 (feat: add eslint and package files)
-    "name": "webpack",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-      "build": "webpack"
-    },
-    "author": "",
-    "license": "ISC",
-    "devDependencies": {
-      "eslint": "^8.2.0",
-      "eslint-config-airbnb-base": "^15.0.0",
-      "eslint-plugin-import": "^2.25.2",
-      "webpack": "^5.72.0",
-      "webpack-cli": "^4.9.2",
-      "webpack-dev-server": "^4.8.1"
-    }
-<<<<<<< HEAD
-  }
-=======
     "name": "virtual-keyboard",
     "scripts": {
         "build": "webpack"
@@ -37,7 +13,3 @@
         "eslint-plugin-import": "^2.26.0"
     }
 }
->>>>>>> feat: realized virtal keyboard
-=======
-  }
->>>>>>> d899316 (feat: add eslint and package files)
